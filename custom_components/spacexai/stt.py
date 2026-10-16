@@ -88,7 +88,6 @@ class SpaceXAISTTEntity(SpeechToTextEntity):
         return [
             AudioSampleRates.SAMPLERATE_8000,
             AudioSampleRates.SAMPLERATE_16000,
-            AudioSampleRates.SAMPLERATE_22050,
             AudioSampleRates.SAMPLERATE_44100,
             AudioSampleRates.SAMPLERATE_48000,
         ]
