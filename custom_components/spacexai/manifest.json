@@ -11,7 +11,7 @@
   "issue_tracker": "https://github.com/luxus/ha-spacexai/issues",
   "loggers": ["spacexai", "ha_spacexai_auth"],
   "requirements": [
-    "ha-spacexai-auth@git+https://github.com/luxus/ha-spacexai-auth.git@main",
+    "ha-spacexai-auth@git+https://github.com/cods4/ha-spacexai-auth.git@a62a4469a1a0c85c05363681541ce957c3709f62",
     "voluptuous-openapi"
   ],
   "version": "2.1.2"
